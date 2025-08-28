@@ -14,4 +14,4 @@ During gameplay, when user guesses, just do a dictionary lookup to get its rank.
 That gives you instant response speed and makes sense since CEFR lists aren’t huge.
 
 Not sure what to do for guesses outside of vocab list ???
-
+  Potentially compute embiddings for biggest list e.g. C2 and approximate it for current list e.g. guess has a decimal value. Add a note saying its outside of the current list
